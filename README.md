@@ -7,6 +7,8 @@
 
 <a href="https://luiza489.github.io/HTML/ex002/index.html">Executar o exercício 002</a>
 
+<h2>Veja o site que eu fiz no Curso em Vídeo!</h2>
+<a href="https://luiza489.github.io/projeto-android/">Executar o site</a>
 
  
  
